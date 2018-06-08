@@ -1,0 +1,9 @@
+data
+*.jpg
+*.pyc
+.ipynb_checkpoints
+errors-*.txt
+dataset
+checkpoints
+final_models
+__pycache__
